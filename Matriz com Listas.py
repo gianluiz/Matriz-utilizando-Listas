@@ -1,5 +1,4 @@
-#Crie um programa que declare uma matriz de dimensão 5×5 e preencha com valores lidos pelo teclado. No final, mostre a
-#matriz na tela, com a formatação correta.
+#Matriz de dimensão 5×5 com a formatação correta.
 matriz = [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
 for linha in range(0,5):
     for coluna in range(0,5):
