@@ -1,5 +1,5 @@
 #Matriz de dimensão 5×5 com a formatação correta.
-matriz = [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
+matriz = [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
 for linha in range(0,5):
     for coluna in range(0,5):
         while True:
